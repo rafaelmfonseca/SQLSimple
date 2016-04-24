@@ -1,9 +1,9 @@
 SQLSimple -- Simple CRUD class
 <hr>
 ### Table of Contents
-**[Select Query](#select-query)**
-**[Insert Query](#insert-query)**
-**[Where Conditions](#where-methos)**
+**[Select Query](#select-query)**<br />
+**[Insert Query](#insert-query)**<br />
+**[Where Conditions](#where-methos)**<br />
 
 ### Select Query
 Simple example.
